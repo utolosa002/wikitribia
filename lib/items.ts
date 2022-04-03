@@ -17,7 +17,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   const avoidPeople = Math.random() > 0.5;
 
   const candidates = deck.filter((candidate) => {
-    if (avoidPeople && candidate.instance_of.includes("human")) {
+    if (avoidPeople && candidate.instance_of.includes("gizaki")) {
       return false;
     }
 
@@ -33,7 +33,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   });
 
   if (candidates.length === 0) {
-    throw new Error("No item candidates");
+    throw new Error("Txartelik ez");
   }
 
   const item = { ...candidates[Math.floor(Math.random() * candidates.length)] };

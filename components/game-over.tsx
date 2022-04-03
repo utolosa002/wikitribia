@@ -10,7 +10,7 @@ interface Props {
   score: number;
 }
 
-const defaultShareText = "Share";
+const defaultShareText = "Zabaldu";
 
 function getMedal(score: number): string {
   if (score >= 20) {
@@ -36,11 +36,11 @@ export default function GameOver(props: Props) {
 
   const share = React.useCallback(async () => {
     await navigator?.clipboard?.writeText(
-      `🏛️ wikitrivia.tomjwatson.com\n\n${getMedal(
+      `🏛️ wikitribia.talaios.coop\n\n${getMedal(
         score
-      )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`
+      )}Seriea: ${score}\n${getMedal(highscore)}Serie onena: ${highscore}\n #WikiTribia`
     );
-    setShareText("Copied");
+    setShareText("Kopiatuta");
     setTimeout(() => {
       setShareText(defaultShareText);
     }, 2000);
@@ -50,14 +50,14 @@ export default function GameOver(props: Props) {
     <animated.div style={animProps} className={styles.gameOver}>
       <div className={styles.scoresWrapper}>
         <div className={styles.score}>
-          <Score score={score} title="Streak" />
+          <Score score={score} title="Seriea" />
         </div>
         <div className={styles.score}>
-          <Score score={highscore} title="Best streak" />
+          <Score score={highscore} title="Serie onena" />
         </div>
       </div>
       <div className={styles.buttons}>
-        <Button onClick={resetGame} text="Play again" />
+        <Button onClick={resetGame} text="Jolastu berriro" />
         <Button onClick={share} text={shareText} minimal />
       </div>
     </animated.div>

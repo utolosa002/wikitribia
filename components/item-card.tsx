@@ -15,23 +15,23 @@ type Props = {
 };
 
 const datePropIdMap: { [datePropId: string]: string } = {
-  P575: "discovered", // or invented
-  P7589: "date of assent",
-  P577: "published",
-  P1191: "first performed",
-  P1619: "officially opened",
-  P571: "created",
-  P1249: "earliest record",
-  P576: "ended",
-  P8556: "became extinct",
-  P6949: "announced",
-  P1319: "earliest",
-  P569: "born",
-  P570: "died",
-  P582: "ended",
-  P580: "started",
-  P7125: "latest one",
-  P7124: "first one",
+  P575: "deskubritu", // or invented
+  P7589: "onespen data",
+  P577: "publikatua",
+  P1191: "eginiko lehena",
+  P1619: "irekiera ofiziala",
+  P571: "sortuta",
+  P1249: "lehen erregistroa",
+  P576: "bukatu",
+  P8556: "desagertu zen",
+  P6949: "iragarri",
+  P1319: "goiztiarrena",
+  P569: "jaio",
+  P570: "hil",
+  P582: "bukatu",
+  P580: "hasi",
+  P7125: "azkena",
+  P7124: "lehena",
 };
 
 function capitalize(str: string): string {
@@ -56,7 +56,7 @@ export default function ItemCard(props: Props) {
       return item.description.replace(/ \(.+\)/g, "");
     }
 
-    if (item.instance_of.includes("human") && item.occupations !== null) {
+    if (item.instance_of.includes("gizaki") && item.occupations !== null) {
       return item.occupations[0];
     }
 
@@ -133,7 +133,7 @@ export default function ItemCard(props: Props) {
               </span>
               <span className={styles.description}>{item.description}.</span>
               <a
-                href={`https://www.wikipedia.org/wiki/${encodeURIComponent(
+                href={`https://eu.wikipedia.org/wiki/${encodeURIComponent(
                   item.wikipedia_title
                 )}`}
                 className={styles.wikipedia}

@@ -1,3 +1,9 @@
+# Wiki Tribia
+
+[Wiki trivia](https://github.com/tom-james-watson/wikitrivia) jokoaren euskarazko bertsioa,
+
+Hemen jolastu zaitezke: https://wikitribia.talaios.coop
+
 # Wiki Trivia
 
 This is the source code for the web app at https://wikitrivia.tomjwatson.com.

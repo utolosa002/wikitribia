@@ -15,16 +15,16 @@ export default function Instructions(props: Props) {
   return (
     <div className={styles.instructions}>
       <div className={styles.wrapper}>
-        <h2>Place the cards on the timeline in the correct order.</h2>
+        <h2>Jarri txartelak denbora lerroan orden egokian.</h2>
         {highscore !== 0 && (
           <div className={styles.highscoreWrapper}>
-            <Score score={highscore} title="Best streak" />
+            <Score score={highscore} title="Serie onena" />
           </div>
         )}
-        <Button onClick={start} text="Start game" />
+        <Button onClick={start} text="Hasi jokoa" />
         <div className={styles.about}>
           <div>
-            All data sourced from{" "}
+            Datu guztiak hemendik: {" "}
             <a
               href="https://www.wikidata.org"
               target="_blank"
@@ -32,9 +32,9 @@ export default function Instructions(props: Props) {
             >
               Wikidata
             </a>{" "}
-            and{" "}
+            eta{" "}
             <a
-              href="https://www.wikipedia.org"
+              href="https://eu.wikipedia.org"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -43,23 +43,23 @@ export default function Instructions(props: Props) {
             .
           </div>
           <div>
-            Have feedback? Please report it on{" "}
+            Zalantzarik/iruzkinik? Jakinarazi iezaiguzu{" "}
             <a
-              href="https://github.com/tom-james-watson/wikitrivia/issues/"
+              href="https://github.com/utolosa002/wikitribia/issues/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              GitHub
+              kodea
             </a>
             .
           </div>
           <GitHubButton
-            href="https://github.com/tom-james-watson/wikitrivia"
+            href="https://github.com/utolosa002/wikitribia"
             data-size="large"
             data-show-count="true"
             aria-label="Star tom-james-watson/wikitrivia on GitHub"
           >
-            Star
+            Izarra
           </GitHubButton>
         </div>
       </div>
