@@ -25,6 +25,12 @@ jobs:
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
+      - name: Clean build artifacts
+        run: |
+          rm -rf .next
+          rm -rf out
+          rm -rf node_modules/.cache
+
       - name: Check formatting
         run: bun run format:check
 
