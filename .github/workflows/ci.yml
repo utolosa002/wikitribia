@@ -13,7 +13,7 @@ concurrency:
 
 jobs:
   checks:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-26.04
 
     steps:
       - name: Check out repository
@@ -41,4 +41,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4.2.3
         with:
           branch: gh-pages # The branch the action should deploy to.
-          folder: pages # The folder the action should deploy
+          folder: . # The folder the action should deploy
