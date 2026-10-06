@@ -33,7 +33,7 @@ export default function SiteFooter(props: Props) {
       <div>
         Have feedback? Please report it on{" "}
         <a
-          href="https://github.com/tom-james-watson/wikitrivia/issues/"
+          href="https://github.com/utolosa002/wikitribia/issues/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -43,10 +43,20 @@ export default function SiteFooter(props: Props) {
       </div>
       <div className={ui.githubButtonSlot}>
         <GitHubButton
+          href="https://github.com/utolosa002/wikitribia"
+          data-size="large"
+          data-show-count="true"
+          aria-label="Star wikitriBia on GitHub"
+        >
+          Star
+        </GitHubButton>
+      </div>
+      <div className={ui.githubButtonSlot}>
+        <GitHubButton
           href="https://github.com/tom-james-watson/wikitrivia"
           data-size="large"
           data-show-count="true"
-          aria-label="Star tom-james-watson/wikitrivia on GitHub"
+          aria-label="Star original wikitrivia on GitHub"
         >
           Star
         </GitHubButton>
