@@ -12,14 +12,14 @@ export default function AppHead(props: Props) {
       <title>{title}</title>
       <link
         rel="preload"
-        href="/fonts/inter-latin.woff2"
+        href="./fonts/inter-latin.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
       />
       <link
         rel="preload"
-        href="/fonts/fraunces-latin.woff2"
+        href="./fonts/fraunces-latin.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
