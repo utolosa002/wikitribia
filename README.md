@@ -1,4 +1,6 @@
-# Wikitrivia
+# Wikitribia euskaraz
+Wikitribia euskaraz, Wikitriviaren euskarazko bertsioa: 
+[utolosa002.github.io/wikitribia](https://utolosa002.github.io/wikitribia).
 
 Wikitrivia is a year-based timeline trivia game built from Wikimedia data.
 
