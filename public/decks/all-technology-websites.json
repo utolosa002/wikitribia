@@ -1,0 +1,1422 @@
+[
+  {
+    "qid": "Q115564437",
+    "title": "‘ChatGPT’ launches",
+    "subtitle": "Website",
+    "year": 2022,
+    "fact": "ChatGPT is a generative artificial intelligence chatbot developed by OpenAI.",
+    "wikipediaSlug": "ChatGPT",
+    "image": "OpenAI_logo_2025_(symbol).svg",
+    "pageViews": 2473541
+  },
+  {
+    "qid": "Q355",
+    "title": "‘Facebook’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Facebook is an American social networking service owned by the American technology conglomerate Meta Platforms.",
+    "wikipediaSlug": "Facebook",
+    "image": "Facebook_user_page.png",
+    "pageViews": 1120515
+  },
+  {
+    "qid": "Q48938223",
+    "title": "‘TikTok’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "TikTok, known in mainland China, Macau, and Hong Kong as Douyin, is a social media and short-form online video platform.",
+    "wikipediaSlug": "TikTok",
+    "image": "Douyin_logo.svg",
+    "pageViews": 451528
+  },
+  {
+    "qid": "Q918",
+    "title": "‘X’ launches",
+    "subtitle": "Social networking service",
+    "year": 2006,
+    "fact": "X, formerly known as Twitter, is an American microblogging and social networking service, headquartered in Bastrop, Texas.",
+    "wikipediaSlug": "X_(social_network)",
+    "image": "X_(formerly_Twitter)_logo_late_2025.svg",
+    "pageViews": 317200
+  },
+  {
+    "qid": "Q1136",
+    "title": "‘Reddit’ launches",
+    "subtitle": "Social networking service",
+    "year": 2005,
+    "fact": "Reddit is an American proprietary social news aggregation and forum social media platform.",
+    "wikipediaSlug": "Reddit",
+    "image": "Old_reddit,_2025.png",
+    "pageViews": 193090
+  },
+  {
+    "qid": "Q364",
+    "title": "‘GitHub’ launches",
+    "subtitle": "Social networking service",
+    "year": 2007,
+    "fact": "GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code.",
+    "wikipediaSlug": "GitHub",
+    "image": "GitHub_Invertocat_Logo.svg",
+    "pageViews": 166779
+  },
+  {
+    "qid": "Q116933",
+    "title": "‘VK’ launches",
+    "subtitle": "Social networking service",
+    "year": 2006,
+    "fact": "VK is a Russian online social media and social networking service based in Saint Petersburg.",
+    "wikipediaSlug": "VK_(service)",
+    "image": "VK's_home_page_(February_2026).png",
+    "pageViews": 145532
+  },
+  {
+    "qid": "Q116947",
+    "title": "‘Messenger’ launches",
+    "subtitle": "Website",
+    "year": 2011,
+    "fact": "Messenger is an American proprietary instant messaging service developed by Meta Platforms, the company that operates Facebook.",
+    "wikipediaSlug": "Facebook_Messenger",
+    "image": "Facebook_Messenger_logo_2025.svg",
+    "pageViews": 120605
+  },
+  {
+    "qid": "Q135622",
+    "title": "‘Google Translate’ launches",
+    "subtitle": "Website",
+    "year": 2006,
+    "fact": "Google Translate is a multilingual neural machine translation service developed by Google to translate text, documents and websites from one language into another.",
+    "wikipediaSlug": "Google_Translate",
+    "image": "Google_Translate_screenshot.png",
+    "pageViews": 112315
+  },
+  {
+    "qid": "Q37312",
+    "title": "‘IMDb’ launches",
+    "subtitle": "Social networking service",
+    "year": 1990,
+    "fact": "IMDb, formerly known as the Internet Movie Database, is an online database of information related to films, television series, podcasts, video games, and streaming content online – including cast, production crew and biographies, plot summaries, trivia, ratings, and fan and critical reviews.",
+    "wikipediaSlug": "IMDb",
+    "image": "IMDB_Logo_2016.svg",
+    "pageViews": 66500
+  },
+  {
+    "qid": "Q78194383",
+    "title": "‘Bluesky’ launches",
+    "subtitle": "Social networking service",
+    "year": 2021,
+    "fact": "Bluesky is an American microblogging social media service.",
+    "wikipediaSlug": "Bluesky",
+    "image": "Bluesky_Logo.svg",
+    "pageViews": 57379
+  },
+  {
+    "qid": "Q3077586",
+    "title": "‘Bilibili’ launches",
+    "subtitle": "Online community",
+    "year": 2009,
+    "fact": "Bilibili, nicknamed B Site, is a Chinese online video sharing website based in Shanghai where users can submit, view, and add overlaid commentary on videos.",
+    "wikipediaSlug": "Bilibili",
+    "image": "Bilibili_logo.svg",
+    "pageViews": 51928
+  },
+  {
+    "qid": "Q18712091",
+    "title": "‘8Chan/kun’ launches",
+    "subtitle": "Online community",
+    "year": 2013,
+    "fact": "8kun, previously called 8chan, Infinitechan or Infinitychan, is an imageboard website composed of user-created message boards.",
+    "wikipediaSlug": "8chan",
+    "image": "8kun_logo_2021.png",
+    "pageViews": 51041
+  },
+  {
+    "qid": "Q769222",
+    "title": "‘Dailymotion’ launches",
+    "subtitle": "Online community",
+    "year": 2005,
+    "fact": "Dailymotion is a French online video sharing platform owned by Canal+.",
+    "wikipediaSlug": "Dailymotion",
+    "image": "Boulevard_Malesherbes,_140.jpg",
+    "pageViews": 51036
+  },
+  {
+    "qid": "Q5445894",
+    "title": "‘FetLife’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "FetLife is a social networking website that serves people interested in BDSM, fetishism, and kink.",
+    "wikipediaSlug": "FetLife",
+    "image": "FetLife_user_page_2025.png",
+    "pageViews": 43687
+  },
+  {
+    "qid": "Q40984",
+    "title": "‘Skype’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "Skype was a proprietary telecommunications application operated by Skype Technologies, an acquired division of Microsoft, best known for IP-based videotelephony, videoconferencing and voice calls.",
+    "wikipediaSlug": "Skype",
+    "image": "Skype_logo_(2019–present).svg",
+    "pageViews": 43061
+  },
+  {
+    "qid": "Q2299611",
+    "title": "‘Yelp’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Yelp Inc. is an American company that develops the Yelp.com website and the Yelp mobile app, which publishes crowd-sourced reviews about businesses.",
+    "wikipediaSlug": "Yelp",
+    "image": "Yelp_Logo.svg",
+    "pageViews": 41964
+  },
+  {
+    "qid": "Q63225180",
+    "title": "‘Kiwi Farms’ launches",
+    "subtitle": "Online community",
+    "year": 2013,
+    "fact": "Kiwi Farms, formerly known as CWCki Forums, is a web forum that facilitates the discussion and harassment of online figures and communities.",
+    "wikipediaSlug": "Kiwi_Farms",
+    "image": "KiwiFarmsLogo.svg",
+    "pageViews": 41708
+  },
+  {
+    "qid": "Q55637991",
+    "title": "‘Xiaohongshu’ launches",
+    "subtitle": "Social networking service",
+    "year": 2013,
+    "fact": "Xiaohongshu, known in English as RedNote, is a Chinese social networking and e-commerce platform.",
+    "wikipediaSlug": "Xiaohongshu",
+    "image": "SOHO_Fuxing_Plaza_(20250610160414).jpg",
+    "pageViews": 40677
+  },
+  {
+    "qid": "Q568769",
+    "title": "‘SoundCloud’ launches",
+    "subtitle": "Social networking service",
+    "year": 2007,
+    "fact": "SoundCloud is a German audio streaming service owned and operated by SoundCloud Global Limited & Co.",
+    "wikipediaSlug": "SoundCloud",
+    "image": "SoundCloud_Homepage.png",
+    "pageViews": 37509
+  },
+  {
+    "qid": "Q14772",
+    "title": "‘Baidu’ launches",
+    "subtitle": "Online community",
+    "year": 2000,
+    "fact": "Baidu, Inc. is a Chinese multinational technology company specializing in Internet services and artificial intelligence.",
+    "wikipediaSlug": "Baidu",
+    "image": "Baidu_Technology_Park_at_ZPark_Phase_II_(20220502113650).jpg",
+    "pageViews": 34236
+  },
+  {
+    "qid": "Q99438379",
+    "title": "‘YouTube Shorts’ launches",
+    "subtitle": "Social networking service",
+    "year": 2020,
+    "fact": "YouTube Shorts is the short-form section of the American online video-sharing platform YouTube.",
+    "wikipediaSlug": "YouTube_Shorts",
+    "image": "YouTube_Shorts_player,_opened_on_a_video.png",
+    "pageViews": 33783
+  },
+  {
+    "qid": "Q120281745",
+    "title": "‘Threads’ launches",
+    "subtitle": "Social networking service",
+    "year": 2023,
+    "fact": "Threads is an American social media microblogging service operated by Meta Platforms.",
+    "wikipediaSlug": "Threads_(social_network)",
+    "image": "Threads_(app).svg",
+    "pageViews": 32923
+  },
+  {
+    "qid": "Q973054",
+    "title": "‘Rakuten Group, Inc.’ launches",
+    "subtitle": "Online community",
+    "year": 1997,
+    "fact": "Rakuten Group, Inc. is a Japanese technology conglomerate headquartered in Tokyo.",
+    "wikipediaSlug": "Rakuten",
+    "image": "Rakuten_HQ.jpg",
+    "pageViews": 29856
+  },
+  {
+    "qid": "Q602471",
+    "title": "‘LINE’ launches",
+    "subtitle": "Social networking service",
+    "year": 2011,
+    "fact": "Line is a Japanese freeware app and service for instant messaging and social networking, operated by the Japanese company LY Corporation, co-owned by SoftBank Group and Naver.",
+    "wikipediaSlug": "Line_(software)",
+    "image": "LINE_screenshot.png",
+    "pageViews": 29434
+  },
+  {
+    "qid": "Q1123836",
+    "title": "‘Odnoklassniki’ launches",
+    "subtitle": "Social networking service",
+    "year": 2006,
+    "fact": "Odnoklassniki, abbreviated as OK or OK.ru, is a social networking service and online video sharing website primarily in Russia and former Soviet Republics.",
+    "wikipediaSlug": "Odnoklassniki",
+    "image": "Logo_Odnoklassniki_2023.svg",
+    "pageViews": 28999
+  },
+  {
+    "qid": "Q3700238",
+    "title": "‘Vine’ launches",
+    "subtitle": "Online community",
+    "year": 2013,
+    "fact": "Vine was a short-form video hosting service where users could share up to 6-second-long looping video clips.",
+    "wikipediaSlug": "Vine_(service)",
+    "image": "Vine_wordmark.svg",
+    "pageViews": 28954
+  },
+  {
+    "qid": "Q115680335",
+    "title": "‘Hinge’ launches",
+    "subtitle": "Social networking service",
+    "year": 2012,
+    "fact": "Hinge is an online dating application.",
+    "wikipediaSlug": "Hinge_(app)",
+    "image": "Hinge_logo.svg",
+    "pageViews": 28375
+  },
+  {
+    "qid": "Q2630118",
+    "title": "‘TMZ’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "TMZ is an American entertainment-focused tabloid news organization owned by Fox Corporation.",
+    "wikipediaSlug": "TMZ",
+    "image": "TMZLogo.svg",
+    "pageViews": 28065
+  },
+  {
+    "qid": "Q283233",
+    "title": "‘WeChat’ launches",
+    "subtitle": "Social networking service",
+    "year": 2011,
+    "fact": "WeChat or Weixin in Chinese is an instant messaging, social media, and mobile payment app developed by Tencent.",
+    "wikipediaSlug": "WeChat",
+    "image": "WeChat_logo.svg",
+    "pageViews": 27772
+  },
+  {
+    "qid": "Q213602",
+    "title": "‘Google Street View’ launches",
+    "subtitle": "Website",
+    "year": 2007,
+    "fact": "Google Street View is a technology featured in Google Maps and Google Earth that provides interactive panoramas from positions along many streets in the world.",
+    "wikipediaSlug": "Google_Street_View",
+    "image": "Google_Street_View_icon.svg",
+    "pageViews": 26965
+  },
+  {
+    "qid": "Q51711",
+    "title": "‘Quora’ launches",
+    "subtitle": "Online community",
+    "year": 2009,
+    "fact": "Quora is an American social question-and-answer website and online knowledge market headquartered in Mountain View, California.",
+    "wikipediaSlug": "Quora",
+    "image": "Quora_screenshot.svg",
+    "pageViews": 23852
+  },
+  {
+    "qid": "Q117459359",
+    "title": "‘BreachForums’ launches",
+    "subtitle": "Online community",
+    "year": 2022,
+    "fact": "BreachForums, sometimes referred to as Breached, is an English-language black hat–hacking crime forum.",
+    "wikipediaSlug": "BreachForums",
+    "image": "BreachForums_logo.png",
+    "pageViews": 23183
+  },
+  {
+    "qid": "Q7575658",
+    "title": "‘Speedtest’ launches",
+    "subtitle": "Website",
+    "year": 2006,
+    "fact": "Speedtest.net, also known as Speedtest by Ookla, is a web service that provides free analysis of Internet access performance metrics, such as connection data rate and latency.",
+    "wikipediaSlug": "Speedtest.net",
+    "image": "SpeedTest_by_Ookla_for_Android.png",
+    "pageViews": 22656
+  },
+  {
+    "qid": "Q504063",
+    "title": "‘Discogs’ launches",
+    "subtitle": "Social networking service",
+    "year": 2000,
+    "fact": "Discogs is an online database and marketplace for audio recordings, including commercial releases, promotional releases, and bootleg or off-label releases.",
+    "wikipediaSlug": "Discogs",
+    "image": "Discogs_logo_black.svg",
+    "pageViews": 22570
+  },
+  {
+    "qid": "Q110972973",
+    "title": "‘Sanctioned Suicide’ launches",
+    "subtitle": "Online community",
+    "year": 2018,
+    "fact": "Sanctioned Suicide is an internet forum known for its open discussion and encouragement of suicide and suicide methods.",
+    "wikipediaSlug": "Sanctioned_Suicide",
+    "image": "Sanctioned_Suicide.svg",
+    "pageViews": 21512
+  },
+  {
+    "qid": "Q23214788",
+    "title": "‘Have I Been Pwned?’ launches",
+    "subtitle": "Website",
+    "year": 2013,
+    "fact": "Have I Been Pwned?",
+    "wikipediaSlug": "Have_I_Been_Pwned%3F",
+    "image": "Have_I_Been_Pwned_(2025_rebrand)_-_Logo_Have_I_Been_Pwned.svg",
+    "pageViews": 18117
+  },
+  {
+    "qid": "Q64221183",
+    "title": "‘Amino’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "Amino was a social media application originally developed by Narvii, Inc.",
+    "wikipediaSlug": "Amino_(app)",
+    "image": "The_logo_of_Amino_(app)_since_2023.png",
+    "pageViews": 16773
+  },
+  {
+    "qid": "Q222909",
+    "title": "‘2Channel’ launches",
+    "subtitle": "Online community",
+    "year": 1999,
+    "fact": "2channel, also known as 2ch, Channel 2, and sometimes retrospectively as 2ch.net, was an anonymous Japanese textboard founded in 1999 by Hiroyuki Nishimura.",
+    "wikipediaSlug": "2channel",
+    "image": "Topimage_(2ch).png",
+    "pageViews": 16236
+  },
+  {
+    "qid": "Q103204",
+    "title": "‘Flickr’ launches",
+    "subtitle": "Online community",
+    "year": 2004,
+    "fact": "Flickr is an image and video hosting service, as well as an online community, founded in Canada and headquartered in the United States.",
+    "wikipediaSlug": "Flickr",
+    "image": "Flickr_screenshot.png",
+    "pageViews": 16171
+  },
+  {
+    "qid": "Q16829376",
+    "title": "‘Chess.com’ launches",
+    "subtitle": "Social networking service",
+    "year": 2007,
+    "fact": "Chess.com is an internet chess server.",
+    "wikipediaSlug": "Chess.com",
+    "image": "Chess.com_Homepage_(as_of_December_2017).PNG",
+    "pageViews": 15979
+  },
+  {
+    "qid": "Q58166",
+    "title": "‘ICQ’ launches",
+    "subtitle": "Social networking service",
+    "year": 1996,
+    "fact": "ICQ was a cross-platform instant messaging (IM) and VoIP client founded in June 1996 by Yair Goldfinger, Sefi Vigiser, Amnon Amir, Arik Vardi, and Arik's father, Yossi Vardi.",
+    "wikipediaSlug": "ICQ",
+    "image": "Logo_ICQ.svg",
+    "pageViews": 15905
+  },
+  {
+    "qid": "Q65073105",
+    "title": "‘Quibi’ launches",
+    "subtitle": "Website",
+    "year": 2020,
+    "fact": "Quibi was an American short-form streaming platform that generated content for viewing on mobile devices.",
+    "wikipediaSlug": "Quibi",
+    "image": "Quibi_logo_purple.svg",
+    "pageViews": 15161
+  },
+  {
+    "qid": "Q159540",
+    "title": "‘Encyclopedia Dramatica’ launches",
+    "subtitle": "Online community",
+    "year": 2004,
+    "fact": "Encyclopedia Dramatica is an online community website, centered around a wiki.",
+    "wikipediaSlug": "Encyclopedia_Dramatica",
+    "image": "Encyclopedia_Dramatica_(logo).svg",
+    "pageViews": 15099
+  },
+  {
+    "qid": "Q92526",
+    "title": "‘Weibo’ launches",
+    "subtitle": "Social networking service",
+    "year": 2010,
+    "fact": "Weibo, or Sina Weibo, is a Chinese microblogging (weibo) website.",
+    "wikipediaSlug": "Weibo",
+    "image": "Sina_Weibo.svg",
+    "pageViews": 14719
+  },
+  {
+    "qid": "Q19831807",
+    "title": "‘Lichess’ launches",
+    "subtitle": "Online community",
+    "year": 2010,
+    "fact": "Lichess is an internet chess server that is free and open-source, run by a non-profit organization of the same name.",
+    "wikipediaSlug": "Lichess",
+    "image": "Lichess_Logo_2019.svg",
+    "pageViews": 14138
+  },
+  {
+    "qid": "Q220577",
+    "title": "‘Google Analytics’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "Google Analytics is a web analytics service offered by Google that tracks and reports website traffic and mobile app traffic and events, currently as a platform inside the Google Marketing Platform brand.",
+    "wikipediaSlug": "Google_Analytics",
+    "image": "2025-05-26_Google_Analytics_dashboard.png",
+    "pageViews": 13638
+  },
+  {
+    "qid": "Q569172",
+    "title": "‘Neopets’ launches",
+    "subtitle": "Website",
+    "year": 1999,
+    "fact": "Neopets is a free-to-play virtual pet browser game.",
+    "wikipediaSlug": "Neopets",
+    "image": "Neopets_logo_2024.png",
+    "pageViews": 13611
+  },
+  {
+    "qid": "Q28134981",
+    "title": "‘Gab’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "Gab is an American alt-tech microblogging and social networking service.",
+    "wikipediaSlug": "Gab_(social_network)",
+    "image": "Gab_text_logo.svg",
+    "pageViews": 13558
+  },
+  {
+    "qid": "Q113640505",
+    "title": "‘NAFO’ launches",
+    "subtitle": "Online community",
+    "year": 2022,
+    "fact": "The North Atlantic Fella Organization is an Internet meme and social media movement dedicated to countering Russian propaganda and disinformation about the 2022 Russian invasion of Ukraine.",
+    "wikipediaSlug": "NAFO_(group)",
+    "image": "NAFO_logo.png",
+    "pageViews": 13541
+  },
+  {
+    "qid": "Q549037",
+    "title": "‘Stack Overflow’ launches",
+    "subtitle": "Online community",
+    "year": 2008,
+    "fact": "Stack Overflow is a question-and-answer website for computer programmers.",
+    "wikipediaSlug": "Stack_Overflow",
+    "image": "Stackoverflow.com_questions.png",
+    "pageViews": 13362
+  },
+  {
+    "qid": "Q115926044",
+    "title": "‘YouTube Studio’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "YouTube Studio, formerly known as YouTube Creator Studio, is a platform created by the American video-sharing platform YouTube.",
+    "wikipediaSlug": "YouTube_Studio",
+    "image": "YouTube_Studio_on_Linux_Screenshot.png",
+    "pageViews": 12337
+  },
+  {
+    "qid": "Q29468697",
+    "title": "‘R/place’ launches",
+    "subtitle": "Online community",
+    "year": 2017,
+    "fact": "r/place was a recurring collaborative project and social experiment hosted on the content aggregator site Reddit.",
+    "wikipediaSlug": "R/place",
+    "image": "R-place_2023_final.jpg",
+    "pageViews": 12003
+  },
+  {
+    "qid": "Q13980547",
+    "title": "‘Less Wrong’ launches",
+    "subtitle": "Online community",
+    "year": 2009,
+    "fact": "LessWrong is a community blog and forum focused on discussion of cognitive biases, philosophy, psychology, economics, rationality, and artificial intelligence, among other topics.",
+    "wikipediaSlug": "LessWrong",
+    "image": "LessWrong_logo.svg",
+    "pageViews": 11569
+  },
+  {
+    "qid": "Q7021239",
+    "title": "‘Nextdoor’ launches",
+    "subtitle": "Social networking service",
+    "year": 2011,
+    "fact": "Nextdoor Holdings, Inc. is an American company that operates a hyperlocal social networking service for neighborhoods.",
+    "wikipediaSlug": "Nextdoor",
+    "image": "Nextdoor-logo-green.png",
+    "pageViews": 9730
+  },
+  {
+    "qid": "Q47015540",
+    "title": "‘Kuaishou’ launches",
+    "subtitle": "Social networking service",
+    "year": 2015,
+    "fact": "Kuaishou Technology is a Chinese publicly traded partly state-owned holding company based in Haidian District, Beijing, that was founded in 2011 by Hua Su (宿华) and Cheng Yixiao (程一笑).",
+    "wikipediaSlug": "Kuaishou",
+    "image": "Kuaishou_office_at_CMID_(20231115080409).jpg",
+    "pageViews": 9698
+  },
+  {
+    "qid": "Q231396",
+    "title": "‘Orkut’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Orkut was a social networking service owned and operated by Google.",
+    "wikipediaSlug": "Orkut",
+    "image": "Orkut-sign.png",
+    "pageViews": 9534
+  },
+  {
+    "qid": "Q813559",
+    "title": "‘Bebo’ launches",
+    "subtitle": "Social networking service",
+    "year": 2005,
+    "fact": "Bebo was an American social networking website that originally operated from 2005 until its bankruptcy in 2013.",
+    "wikipediaSlug": "Bebo",
+    "image": "Logo_Bebo.svg",
+    "pageViews": 9014
+  },
+  {
+    "qid": "Q28228919",
+    "title": "‘R/The_Donald’ launches",
+    "subtitle": "Online community",
+    "year": 2015,
+    "fact": "r/The_Donald was a subreddit where participants created discussions and internet memes in support of U.S. president Donald Trump.",
+    "wikipediaSlug": "R/The_Donald",
+    "image": "The_Donald.png",
+    "pageViews": 8409
+  },
+  {
+    "qid": "Q23895358",
+    "title": "‘Slither.io’ launches",
+    "subtitle": "Website",
+    "year": 2016,
+    "fact": "Slither.io is a multiplayer online video game available for iOS, Android, and web browsers, developed by Steve Howse.",
+    "wikipediaSlug": "Slither.io",
+    "image": "Slither.png",
+    "pageViews": 8382
+  },
+  {
+    "qid": "Q219523",
+    "title": "‘LiveJournal’ launches",
+    "subtitle": "Social networking service",
+    "year": 1999,
+    "fact": "LiveJournal, formerly stylised as LiVEJOURNAL, is a Russian-owned social networking service where users can keep a blog, journal, or diary.",
+    "wikipediaSlug": "LiveJournal",
+    "image": "LiveJournal_icon.svg",
+    "pageViews": 8308
+  },
+  {
+    "qid": "Q371060",
+    "title": "‘Google Reader’ launches",
+    "subtitle": "Website",
+    "year": 2005,
+    "fact": "Google Reader was an RSS/Atom feed aggregator service operated by Google.",
+    "wikipediaSlug": "Google_Reader",
+    "image": "Google_Reader_logo.png",
+    "pageViews": 8260
+  },
+  {
+    "qid": "Q16958215",
+    "title": "‘INaturalist’ launches",
+    "subtitle": "Online community",
+    "year": 2008,
+    "fact": "iNaturalist is an American 501(c)(3) nonprofit social network of naturalists, citizen scientists, and biologists built on the concept of mapping and sharing observations of biodiversity across the globe. iNaturalist may be accessed via its website or from its mobile applications. iNaturalist includes an automated species identification tool, and users further assist each other in identifying organisms from photographs and sound recordings.",
+    "wikipediaSlug": "INaturalist",
+    "image": "INaturalist_logo.png",
+    "pageViews": 8213
+  },
+  {
+    "qid": "Q1777270",
+    "title": "‘Hi5’ launches",
+    "subtitle": "Social networking service",
+    "year": 2000,
+    "fact": "hi5 is an American social networking service based in San Francisco, California.",
+    "wikipediaSlug": "Hi5",
+    "image": "Hi5_new.png",
+    "pageViews": 8073
+  },
+  {
+    "qid": "Q2777905",
+    "title": "‘Academia.edu’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "Academia.edu is a commercial platform for sharing academic research that is uploaded and distributed by researchers from around the world.",
+    "wikipediaSlug": "Academia.edu",
+    "image": "Screenshot_of_Academia.edu_(26_Dec_2017).PNG",
+    "pageViews": 7298
+  },
+  {
+    "qid": "Q60691066",
+    "title": "‘Pleroma’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "Pleroma is a free and open-source microblogging social networking service.",
+    "wikipediaSlug": "Pleroma_(software)",
+    "image": "Pleroma-FE_UI_screenshot_2020.png",
+    "pageViews": 7297
+  },
+  {
+    "qid": "Q96310034",
+    "title": "‘Iron March’ launches",
+    "subtitle": "Online community",
+    "year": 2011,
+    "fact": "Iron March was a neo-fascist web forum open from 2011 to 2017.",
+    "wikipediaSlug": "Iron_March",
+    "image": "Logo_of_Ironmarch.org.svg",
+    "pageViews": 7031
+  },
+  {
+    "qid": "Q88239185",
+    "title": "‘R/WallStreetBets’ launches",
+    "subtitle": "Online community",
+    "year": 2012,
+    "fact": "r/wallstreetbets, also known as WallStreetBets or WSB, is a subreddit where participants discuss stock and option trading.",
+    "wikipediaSlug": "R/wallstreetbets",
+    "image": "WallStreetBets.png",
+    "pageViews": 6876
+  },
+  {
+    "qid": "Q131910",
+    "title": "‘Viva Engage’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "Viva Engage is an enterprise social networking service that is part of the Microsoft 365 family of products.",
+    "wikipediaSlug": "Viva_Engage",
+    "image": "Viva_Engage_Logo.svg",
+    "pageViews": 6778
+  },
+  {
+    "qid": "Q183718",
+    "title": "‘Last.fm’ launches",
+    "subtitle": "Social networking service",
+    "year": 2002,
+    "fact": "Last.fm is a music website founded in the United Kingdom in 2002.",
+    "wikipediaSlug": "Last.fm",
+    "image": "Last.fm_website_screenshot_(2024-12-12).webp",
+    "pageViews": 6558
+  },
+  {
+    "qid": "Q18591947",
+    "title": "‘Blued’ launches",
+    "subtitle": "Social networking service",
+    "year": 2012,
+    "fact": "Blued is a gay social network app.",
+    "wikipediaSlug": "Blued_(app)",
+    "image": "Blued_Logo_appstore.svg",
+    "pageViews": 6436
+  },
+  {
+    "qid": "Q1191246",
+    "title": "‘Futaba Channel’ launches",
+    "subtitle": "Online community",
+    "year": 2001,
+    "fact": "Futaba Channel, or Futaba for short, also sometimes called 2chan, is a Japanese imageboard.",
+    "wikipediaSlug": "Futaba_Channel",
+    "image": "2chan_main_page.png",
+    "pageViews": 6077
+  },
+  {
+    "qid": "Q4939834",
+    "title": "‘Bollywood Hungama’ launches",
+    "subtitle": "Website",
+    "year": 1998,
+    "fact": "Bollywood Hungama, previously known as IndiaFM, is an Indian entertainment website, owned by Hungama Digital Media Entertainment, which acquired the website in 2000.",
+    "wikipediaSlug": "Bollywood_Hungama",
+    "image": "Bollywoodhungamascreenshot.jpg",
+    "pageViews": 6034
+  },
+  {
+    "qid": "Q277421",
+    "title": "‘9GAG’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "9gag is an online platform and social media website based in Hong Kong, which allows its users to upload and share user-generated content or other content from external social media websites.",
+    "wikipediaSlug": "9gag",
+    "image": "9gag_logo.svg",
+    "pageViews": 6027
+  },
+  {
+    "qid": "Q1138914",
+    "title": "‘OkCupid’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "OkCupid is a U.S.-based, internationally operating online dating, friendship, and formerly also a social networking website and application.",
+    "wikipediaSlug": "OkCupid",
+    "image": "OkCupid_logo.svg",
+    "pageViews": 5982
+  },
+  {
+    "qid": "Q540",
+    "title": "‘Hyphanet’ launches",
+    "subtitle": "Social networking service",
+    "year": 2000,
+    "fact": "Hyphanet is a peer-to-peer platform for censorship-resistant, anonymous communication.",
+    "wikipediaSlug": "Hyphanet",
+    "image": "Freenet_logo.svg",
+    "pageViews": 5818
+  },
+  {
+    "qid": "Q1426432",
+    "title": "‘SlideShare’ launches",
+    "subtitle": "Online community",
+    "year": 2006,
+    "fact": "SlideShare is an American hosting service, now owned by Scribd, for professional content including presentations, infographics, documents, and videos.",
+    "wikipediaSlug": "SlideShare",
+    "image": "Slideshare_preview.png",
+    "pageViews": 5713
+  },
+  {
+    "qid": "Q60455989",
+    "title": "‘Dvach’ launches",
+    "subtitle": "Online community",
+    "year": 2009,
+    "fact": "Dvach, also known as 2ch, is the largest Russian anonymous imageboard.",
+    "wikipediaSlug": "Dvach",
+    "image": "2ch.hk_main_page.png",
+    "pageViews": 5614
+  },
+  {
+    "qid": "Q1625371",
+    "title": "‘Meetup.com’ launches",
+    "subtitle": "Social networking service",
+    "year": 2002,
+    "fact": "Meetup is an American social media platform and social networking service for hosting and organizing in-person and virtual activities, gatherings, and events for people and communities of similar interests, hobbies, and professions.",
+    "wikipediaSlug": "Meetup",
+    "image": "Meetup_Logo.png",
+    "pageViews": 5415
+  },
+  {
+    "qid": "Q84777032",
+    "title": "‘Lemmy’ launches",
+    "subtitle": "Website",
+    "year": 2019,
+    "fact": "Lemmy is free and open-source, social news aggregation software for running self-hosted discussion forums.",
+    "wikipediaSlug": "Lemmy_(social_network)",
+    "image": "Lemmy_logo.svg",
+    "pageViews": 5368
+  },
+  {
+    "qid": "Q28957086",
+    "title": "‘Yubo’ launches",
+    "subtitle": "Social networking service",
+    "year": 2015,
+    "fact": "Yubo is a French social networking platform and app developed by TWELVE APP in 2015.",
+    "wikipediaSlug": "Yubo",
+    "image": "Yubo_logo.png",
+    "pageViews": 5361
+  },
+  {
+    "qid": "Q117384741",
+    "title": "‘Lemon8’ launches",
+    "subtitle": "Social networking service",
+    "year": 2020,
+    "fact": "Lemon8 is a social media app owned by Heliophilia Pte.",
+    "wikipediaSlug": "Lemon8",
+    "image": "Lemon8_icon.png",
+    "pageViews": 5193
+  },
+  {
+    "qid": "Q1145963",
+    "title": "‘Rate Your Music’ launches",
+    "subtitle": "Social networking service",
+    "year": 2000,
+    "fact": "Rate Your Music is a social cataloging website for music releases and films.",
+    "wikipediaSlug": "Rate_Your_Music",
+    "image": "Rate_Your_Music_logo.svg",
+    "pageViews": 5170
+  },
+  {
+    "qid": "Q16045816",
+    "title": "‘Aparat’ launches",
+    "subtitle": "Online community",
+    "year": 2011,
+    "fact": "Aparat is an Iranian video-sharing and social media platform established in 2011 by Saba Idea.",
+    "wikipediaSlug": "Aparat",
+    "image": "Aparat_logo_colour.svg",
+    "pageViews": 5145
+  },
+  {
+    "qid": "Q544251",
+    "title": "‘Ravelry’ launches",
+    "subtitle": "Social networking service",
+    "year": 2007,
+    "fact": "Ravelry is a free social networking service and website that beta-launched in May 2007.",
+    "wikipediaSlug": "Ravelry",
+    "image": "Ravelry_Logo.png",
+    "pageViews": 4834
+  },
+  {
+    "qid": "Q16646841",
+    "title": "‘The Visual Novel Database’ launches",
+    "subtitle": "Online community",
+    "year": 2007,
+    "fact": "The Visual Novel Database is an online database, wiki and Internet forum for visual novels.",
+    "wikipediaSlug": "The_Visual_Novel_Database",
+    "image": "Screenshot_of_the_vndb.org_site.png",
+    "pageViews": 4648
+  },
+  {
+    "qid": "Q22661177",
+    "title": "‘Zenodo’ launches",
+    "subtitle": "Online community",
+    "year": 2013,
+    "fact": "Zenodo is a general-purpose open repository developed under the European OpenAIRE program and operated by CERN.",
+    "wikipediaSlug": "Zenodo",
+    "image": "Zenodo-gradient-square.svg",
+    "pageViews": 4549
+  },
+  {
+    "qid": "Q65924658",
+    "title": "‘Douyin’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "TikTok, known in mainland China, Macau, and Hong Kong as Douyin, is a social media and short-form online video platform.",
+    "wikipediaSlug": "Douyin",
+    "image": "Douyin_logo.svg",
+    "pageViews": 4462
+  },
+  {
+    "qid": "Q98382038",
+    "title": "‘Triller’ launches",
+    "subtitle": "Social networking service",
+    "year": 2015,
+    "fact": "Triller was an American video-sharing social networking service that was first released for iOS and Android in 2015.",
+    "wikipediaSlug": "Triller_(app)",
+    "image": "Triller_Apple_App_Store_icon.svg",
+    "pageViews": 4137
+  },
+  {
+    "qid": "Q1758399",
+    "title": "‘PlayStation Home’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "PlayStation Home was a virtual 3D social gaming platform developed by Sony Computer Entertainment's London Studio for the PlayStation 3 (PS3) on the PlayStation Network (PSN).",
+    "wikipediaSlug": "PlayStation_Home",
+    "image": "PlayStation_Home_Logo.png",
+    "pageViews": 4102
+  },
+  {
+    "qid": "Q887528",
+    "title": "‘BoardGameGeek’ launches",
+    "subtitle": "Online community",
+    "year": 2000,
+    "fact": "BoardGameGeek (BGG) is an online forum for board gaming hobbyists and a user-generated game database that holds reviews, images and videos for over 150,000 different tabletop games.",
+    "wikipediaSlug": "BoardGameGeek",
+    "image": "BoardGameGeek_Logo.svg",
+    "pageViews": 3968
+  },
+  {
+    "qid": "Q176243",
+    "title": "‘Classmates’ launches",
+    "subtitle": "Social networking service",
+    "year": 1995,
+    "fact": "classmates.com is an American social networking service.",
+    "wikipediaSlug": "Classmates.com",
+    "image": "Classmateslogo.jpg",
+    "pageViews": 3946
+  },
+  {
+    "qid": "Q16723302",
+    "title": "‘Yandex Taxi’ launches",
+    "subtitle": "Website",
+    "year": 2011,
+    "fact": "Yandex Taxi, a division of Yandex, operates a ridesharing company in Russia, Moldova, Armenia, Belarus, Georgia, Kyrgyzstan, Serbia, Uzbekistan, Kazakhstan, Tajikistan, Israel and UAE.",
+    "wikipediaSlug": "Yandex_Taxi",
+    "image": "Yandex.Taxi_on_Moscow_streets.jpg",
+    "pageViews": 3797
+  },
+  {
+    "qid": "Q107392911",
+    "title": "‘Gettr’ launches",
+    "subtitle": "Social networking service",
+    "year": 2021,
+    "fact": "Gettr is an alt-tech social media platform and microblogging site targeting American conservatives.",
+    "wikipediaSlug": "Gettr",
+    "image": "Gettr_2022_logo.svg",
+    "pageViews": 3760
+  },
+  {
+    "qid": "Q60691545",
+    "title": "‘Pixelfed’ launches",
+    "subtitle": "Social networking service",
+    "year": 2018,
+    "fact": "Pixelfed is a free and open-source image sharing social network service.",
+    "wikipediaSlug": "Pixelfed",
+    "image": "Pixelfed_logo_multicolor_(September_2018).svg",
+    "pageViews": 3688
+  },
+  {
+    "qid": "Q55637066",
+    "title": "‘Vero’ launches",
+    "subtitle": "Social networking service",
+    "year": 2015,
+    "fact": "Vero is a social media platform and mobile app company.",
+    "wikipediaSlug": "Vero_(app)",
+    "image": "Vero_logo_2020.png",
+    "pageViews": 3479
+  },
+  {
+    "qid": "Q281055",
+    "title": "‘Jeuxvideo.com’ launches",
+    "subtitle": "Online community",
+    "year": 1997,
+    "fact": "JV is a French website, and also available as an application, specializing in video games since 1997.",
+    "wikipediaSlug": "Jeuxvideo.com",
+    "image": "Jeuxvideo.com_Logo.svg",
+    "pageViews": 3402
+  },
+  {
+    "qid": "Q2621214",
+    "title": "‘Geni.com’ launches",
+    "subtitle": "Social networking service",
+    "year": 2006,
+    "fact": "Geni is an American commercial genealogy and social networking website, founded in 2006, and owned by MyHeritage, an Israeli private company, since November 2012.",
+    "wikipediaSlug": "Geni.com",
+    "image": "Geni_Logo.svg",
+    "pageViews": 3358
+  },
+  {
+    "qid": "Q3916680",
+    "title": "‘Pocket’ launches",
+    "subtitle": "Website",
+    "year": 2007,
+    "fact": "Pocket, formerly known as Read It Later, was a social bookmarking service for storing, sharing and discovering web bookmarks, first released in 2007.",
+    "wikipediaSlug": "Pocket_(service)",
+    "image": "Pocket_web_reader_example.png",
+    "pageViews": 3175
+  },
+  {
+    "qid": "Q1973097",
+    "title": "‘Diaspora*’ launches",
+    "subtitle": "Social networking service",
+    "year": 2010,
+    "fact": "Diaspora is a nonprofit, user-owned, distributed social network.",
+    "wikipediaSlug": "Diaspora_(social_network)",
+    "image": "Diaspora_latest.png",
+    "pageViews": 3077
+  },
+  {
+    "qid": "Q16971795",
+    "title": "‘Brainly’ launches",
+    "subtitle": "Social networking service",
+    "year": 2018,
+    "fact": "Brainly is an education technology company founded in Kraków, Poland and headquartered in New York City.",
+    "wikipediaSlug": "Brainly",
+    "image": "Brainly_logo.svg",
+    "pageViews": 2952
+  },
+  {
+    "qid": "Q7605173",
+    "title": "‘Dribbble’ launches",
+    "subtitle": "Social networking service",
+    "year": 2009,
+    "fact": "Dribbble is a self-promotion and social networking platform for digital designers.",
+    "wikipediaSlug": "Dribbble",
+    "image": "Dribbble_logo.svg",
+    "pageViews": 2939
+  },
+  {
+    "qid": "Q1051289",
+    "title": "‘Mixi’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Mixi is an online Japanese social networking service.",
+    "wikipediaSlug": "Mixi",
+    "image": "Mixi_text_logo.svg",
+    "pageViews": 2909
+  },
+  {
+    "qid": "Q15898172",
+    "title": "‘Zhihu’ launches",
+    "subtitle": "Online community",
+    "year": 2011,
+    "fact": "Zhihu is a Chinese social question and answer site and news aggregator.",
+    "wikipediaSlug": "Zhihu",
+    "image": "Zhihu_logo.svg",
+    "pageViews": 2873
+  },
+  {
+    "qid": "Q107123627",
+    "title": "‘SpaceHey’ launches",
+    "subtitle": "Social networking service",
+    "year": 2020,
+    "fact": "SpaceHey is an English-language online social network operated by the German company tibush GmbH and headquartered in Pfullingen.",
+    "wikipediaSlug": "SpaceHey",
+    "image": "Spacehey_homepage,_October_2023.png",
+    "pageViews": 2852
+  },
+  {
+    "qid": "Q22662086",
+    "title": "‘Miitomo’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "Miitomo was a freemium social networking mobile app developed by Nintendo for iOS and Android devices.",
+    "wikipediaSlug": "Miitomo",
+    "image": "Miitomo_Android_icon.webp",
+    "pageViews": 2845
+  },
+  {
+    "qid": "Q1464506",
+    "title": "‘Friendica’ launches",
+    "subtitle": "Social networking service",
+    "year": 2010,
+    "fact": "Friendica is a free and open-source software distributed social network.",
+    "wikipediaSlug": "Friendica",
+    "image": "Friendica_Logo.png",
+    "pageViews": 2812
+  },
+  {
+    "qid": "Q1419343",
+    "title": "‘Tagged’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Tagged is a social discovery website based in San Francisco, California, founded in 2004.",
+    "wikipediaSlug": "Tagged_(website)",
+    "image": "Tagged_Logo_NEW_2014.png",
+    "pageViews": 2796
+  },
+  {
+    "qid": "Q9032999",
+    "title": "‘Miiverse’ launches",
+    "subtitle": "Social networking service",
+    "year": 2012,
+    "fact": "Miiverse was a social network developed by Nintendo that operated from 2012 to 2017.",
+    "wikipediaSlug": "Miiverse",
+    "image": "Miiverse_Wii_U_screenshot.jpg",
+    "pageViews": 2676
+  },
+  {
+    "qid": "Q97621095",
+    "title": "‘Koo’ launches",
+    "subtitle": "Social networking service",
+    "year": 2020,
+    "fact": "Koo was an Indian microblogging and social networking service, owned by Bengaluru-based Bombinate Technologies.",
+    "wikipediaSlug": "Koo_(social_network)",
+    "image": "Koo.svg",
+    "pageViews": 2653
+  },
+  {
+    "qid": "Q29760",
+    "title": "‘Cyworld’ launches",
+    "subtitle": "Social networking service",
+    "year": 1999,
+    "fact": "Cyworld (Korean: 싸이월드) is a South Korean social network service.",
+    "wikipediaSlug": "Cyworld",
+    "image": "Cyworld.jpg",
+    "pageViews": 2631
+  },
+  {
+    "qid": "Q98148856",
+    "title": "‘Nexta’ launches",
+    "subtitle": "Online community",
+    "year": 2015,
+    "fact": "Nexta is a Belarusian media outlet that is primarily distributed through Telegram and YouTube channels.",
+    "wikipediaSlug": "Nexta",
+    "image": "Nexta_logo.png",
+    "pageViews": 2627
+  },
+  {
+    "qid": "Q21006490",
+    "title": "‘Minds’ launches",
+    "subtitle": "Social networking service",
+    "year": 2011,
+    "fact": "Minds is an open-source and distributed social network.",
+    "wikipediaSlug": "Minds_(social_network)",
+    "image": "Minds_logo.svg",
+    "pageViews": 2379
+  },
+  {
+    "qid": "Q110063145",
+    "title": "‘R/antiwork’ launches",
+    "subtitle": "Online community",
+    "year": 2013,
+    "fact": "r/antiwork is a subreddit associated with contemporary labor movements, critique of work, corporate capitalism and the anti-work movement.",
+    "wikipediaSlug": "R/antiwork",
+    "image": "Antiwork_logo.webp",
+    "pageViews": 2241
+  },
+  {
+    "qid": "Q986608",
+    "title": "‘Qzone’ launches",
+    "subtitle": "Social networking service",
+    "year": 2005,
+    "fact": "Qzone is a social networking website based in China which was created by Tencent in 2005.",
+    "wikipediaSlug": "Qzone",
+    "image": "Qzone_logo.png",
+    "pageViews": 2191
+  },
+  {
+    "qid": "Q18208301",
+    "title": "‘Wikiwand’ launches",
+    "subtitle": "Website",
+    "year": 2013,
+    "fact": "Wikiwand, formerly stylized as WikiWand, is a commercial proprietary interface developed by an Israeli company for viewing Wikipedia articles.",
+    "wikipediaSlug": "Wikiwand",
+    "image": "Wikiwand_Logo_V2.jpg",
+    "pageViews": 2178
+  },
+  {
+    "qid": "Q28667159",
+    "title": "‘Pikabu’ launches",
+    "subtitle": "Social networking service",
+    "year": 2009,
+    "fact": "Pikabu is a social news website from Russia with an emphasis on user-generated content, where users can submit links, images, gifs, and videos which will then be voted by the community.",
+    "wikipediaSlug": "Pikabu",
+    "image": "Pikabu_Screenshot.png",
+    "pageViews": 2075
+  },
+  {
+    "qid": "Q28417611",
+    "title": "‘LIHKG Forum’ launches",
+    "subtitle": "Online community",
+    "year": 2016,
+    "fact": "LIHKG is a multi-category forum website based in Hong Kong.",
+    "wikipediaSlug": "LIHKG",
+    "image": "LIHKG_pig_mascot_immortalized_at_香港の不自由展_exhibition_in_Tokyo.jpg",
+    "pageViews": 1891
+  },
+  {
+    "qid": "Q32111",
+    "title": "‘Plurk’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "Plurk is a free social networking and microblogging service that allows users to send updates through short messages or links, which can be up to 360 text characters in length.",
+    "wikipediaSlug": "Plurk",
+    "image": "Plurk_logo_2018.svg",
+    "pageViews": 1781
+  },
+  {
+    "qid": "Q3775045",
+    "title": "‘Grand Comics Database’ launches",
+    "subtitle": "Social networking service",
+    "year": 1994,
+    "fact": "The Grand Comics Database (GCD) is an Internet-based project to build a database of comic book information through user contributions.",
+    "wikipediaSlug": "Grand_Comics_Database",
+    "image": "Grand_Comics_Database_logo.png",
+    "pageViews": 1778
+  },
+  {
+    "qid": "Q18136409",
+    "title": "‘Ello’ launches",
+    "subtitle": "Social networking service",
+    "year": 2014,
+    "fact": "Ello was an online social networking service created by Paul Budnitz and Todd Berger in March 2014.",
+    "wikipediaSlug": "Ello_(social_network)",
+    "image": "Social_Network_Ello_Logo.svg",
+    "pageViews": 1763
+  },
+  {
+    "qid": "Q784022",
+    "title": "‘Renren’ launches",
+    "subtitle": "Social networking service",
+    "year": 2005,
+    "fact": "The Analyn Network, formerly known as the Redme Network, was a Chinese social networking service similar to Facebook.",
+    "wikipediaSlug": "Renren",
+    "image": "Xiaonei_homepage.png",
+    "pageViews": 1684
+  },
+  {
+    "qid": "Q1138672",
+    "title": "‘Netlog’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Netlog was a Belgian social networking service targeted at the global youth demographic.",
+    "wikipediaSlug": "Netlog",
+    "image": "Netlog.svg",
+    "pageViews": 1608
+  },
+  {
+    "qid": "Q4299858",
+    "title": "‘My World@Mail.Ru’ launches",
+    "subtitle": "Social networking service",
+    "year": 2007,
+    "fact": "My World@Mail.Ru is a social networking service which is a part of Mail.ru portal.",
+    "wikipediaSlug": "My_World@Mail.Ru",
+    "image": "MyWorldMailRu-logo.png",
+    "pageViews": 1559
+  },
+  {
+    "qid": "Q5350642",
+    "title": "‘Ekşi Sözlük’ launches",
+    "subtitle": "Social networking service",
+    "year": 1999,
+    "fact": "Ekşi Sözlük is a Turkish collaborative hypertext dictionary, a type of social network based on dictionaries.",
+    "wikipediaSlug": "Ek%C5%9Fi_S%C3%B6zl%C3%BCk",
+    "image": "EksiSozlukSS.png",
+    "pageViews": 1488
+  },
+  {
+    "qid": "Q25384440",
+    "title": "‘OpenHistoricalMap’ launches",
+    "subtitle": "Online community",
+    "year": 2013,
+    "fact": "OpenHistoricalMap is an online collaborative mapping project developing a historical map of the world using OpenStreetMap technology and processes.",
+    "wikipediaSlug": "OpenHistoricalMap",
+    "image": "OpenHistoricalMap_logo_and_wordmark.png",
+    "pageViews": 1446
+  },
+  {
+    "qid": "Q1049664",
+    "title": "‘OpenFeint’ launches",
+    "subtitle": "Social networking service",
+    "year": 2009,
+    "fact": "OpenFeint was a social platform for mobile games for devices running on Android or iOS.",
+    "wikipediaSlug": "OpenFeint",
+    "image": "OpenFeint_2.7.5_home_screen.png",
+    "pageViews": 1424
+  },
+  {
+    "qid": "Q111048345",
+    "title": "‘IT Army of Ukraine’ launches",
+    "subtitle": "Online community",
+    "year": 2022,
+    "fact": "The IT Army of Ukraine is a volunteer cyberwarfare organisation created at the end of February 2022 to fight against digital intrusion of Ukrainian information and cyberspace after the beginning of the Russian invasion of Ukraine on 24 February 2022.",
+    "wikipediaSlug": "IT_Army_of_Ukraine",
+    "image": "IT_Army_of_Ukraine_badge.svg",
+    "pageViews": 1392
+  },
+  {
+    "qid": "Q3077675",
+    "title": "‘AcFun’ launches",
+    "subtitle": "Online community",
+    "year": 2007,
+    "fact": "AcFun, also known as A Site for short, is a Chinese video sharing website.",
+    "wikipediaSlug": "AcFun",
+    "image": "AcFun_screenshot_2020.png",
+    "pageViews": 1362
+  },
+  {
+    "qid": "Q17492436",
+    "title": "‘EA Play’ launches",
+    "subtitle": "Website",
+    "year": 2014,
+    "fact": "EA Play is a subscription-based video game service from Electronic Arts for the Xbox One, Xbox Series X/S, PlayStation 4, PlayStation 5 and Microsoft Windows platforms, offering access to selected games published by Electronic Arts along with additional incentives.",
+    "wikipediaSlug": "EA_Play",
+    "image": "EA_Play_logo.svg",
+    "pageViews": 1315
+  },
+  {
+    "qid": "Q65245762",
+    "title": "‘Tellonym’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "Tellonym is a cross-platform messaging app to have questions answered.",
+    "wikipediaSlug": "Tellonym",
+    "image": "Tellonym_logo.svg",
+    "pageViews": 1305
+  },
+  {
+    "qid": "Q27609125",
+    "title": "‘Hello’ launches",
+    "subtitle": "Social networking service",
+    "year": 2016,
+    "fact": "Hello, stylized as hello, was a social networking service founded by Orkut Büyükkökten, the creator of Orkut.",
+    "wikipediaSlug": "Hello_(social_network)",
+    "image": "Hello_logo.png",
+    "pageViews": 1288
+  },
+  {
+    "qid": "Q735181",
+    "title": "‘Call of Duty: Elite’ launches",
+    "subtitle": "Website",
+    "year": 2011,
+    "fact": "Call of Duty: Elite was an online service created by the Activision subsidiary Beachhead Studios for the multiplayer portion for the first-person shooter video game series Call of Duty.",
+    "wikipediaSlug": "Call_of_Duty:_Elite",
+    "image": "Call_of_Duty_ELITE_Logo.jpg",
+    "pageViews": 1268
+  },
+  {
+    "qid": "Q2642057",
+    "title": "‘Banglapedia’ launches",
+    "subtitle": "Website",
+    "year": 2003,
+    "fact": "Banglapedia: the National Encyclopedia of Bangladesh is the first Bangladeshi encyclopedia.",
+    "wikipediaSlug": "Banglapedia",
+    "image": "Banglapedia.svg",
+    "pageViews": 1214
+  },
+  {
+    "qid": "Q28773",
+    "title": "‘Identi.ca’ launches",
+    "subtitle": "Social networking service",
+    "year": 2008,
+    "fact": "identi.ca is a free and open-source social networking and blogging service based on the pump.io software, using the Activity Streams protocol.",
+    "wikipediaSlug": "Identi.ca",
+    "image": "Identi.ca_logo_svg.svg",
+    "pageViews": 1207
+  },
+  {
+    "qid": "Q1051021",
+    "title": "‘ASmallWorld’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "ASMALLWORLD operates a digital travel & luxury lifestyle eco-system based in Zürich, Switzerland, that encourages its members to find inspiration, book unique journeys, and connect with like-minded members.",
+    "wikipediaSlug": "ASmallWorld",
+    "image": "ASW_Winter_Weekend_Gstaad.jpg",
+    "pageViews": 1168
+  },
+  {
+    "qid": "Q1056882",
+    "title": "‘Hyves’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Hyves was a Dutch social media and social networking site with mainly Dutch visitors and members, where it competed with sites such as Facebook and MySpace.",
+    "wikipediaSlug": "Hyves",
+    "image": "Hyves_HQ.jpg",
+    "pageViews": 1151
+  },
+  {
+    "qid": "Q86678330",
+    "title": "‘Mobilizon’ launches",
+    "subtitle": "Social networking service",
+    "year": 2019,
+    "fact": "Mobilizon is an open source software for event planning and group management, launched in October 2020 by Framasoft to offer a free alternative to the platforms of GAFAM.",
+    "wikipediaSlug": "Mobilizon",
+    "image": "Mobilizon_EN.png",
+    "pageViews": 1113
+  },
+  {
+    "qid": "Q16927750",
+    "title": "‘23Snaps’ launches",
+    "subtitle": "Social networking service",
+    "year": 2012,
+    "fact": "23snaps Ltd. is a free, private social network for users to upload photos, videos, measurements and stories of their children to a digital journal and privately share those updates with other family members or close friends. 23snaps is available online and on mobile devices and launched 1 June 2012.",
+    "wikipediaSlug": "23snaps",
+    "image": "23snaps_logo.png",
+    "pageViews": 1079
+  },
+  {
+    "qid": "Q181592",
+    "title": "‘JDN Viadeo’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Viadeo is a Web 2.0 professional social network whose members include business owners, entrepreneurs and managers.",
+    "wikipediaSlug": "Viadeo",
+    "image": "Logo_Viadeo.png",
+    "pageViews": 1077
+  },
+  {
+    "qid": "Q876646",
+    "title": "‘Windows Live Spaces’ launches",
+    "subtitle": "Social networking service",
+    "year": 2004,
+    "fact": "Windows Live Spaces was Microsoft's blogging platform and social network service.",
+    "wikipediaSlug": "Windows_Live_Spaces",
+    "image": "Windows_live_spaces.PNG",
+    "pageViews": 1057
+  },
+  {
+    "qid": "Q3368754",
+    "title": "‘PatientsLikeMe’ launches",
+    "subtitle": "Social networking service",
+    "year": 2005,
+    "fact": "PatientsLikeMe (PLM) is an integrated community, health management, and real-world data platform.",
+    "wikipediaSlug": "PatientsLikeMe",
+    "image": "StephenProfile2011.jpg",
+    "pageViews": 1011
+  }
+]
