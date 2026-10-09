@@ -8,7 +8,8 @@ const nextConfig = {
   basePath: "/wikitribia",
   assetPrefix: "/wikitribia/",
   env: {
-    BASE_PATH: "/wikitribia",
+    BASE_PATH: "/wikitribia"
+  },
   images: {
     unoptimized: true,
   },
