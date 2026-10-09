@@ -6,6 +6,7 @@ const { createVanillaExtractPlugin } = require("@vanilla-extract/next-plugin");
 const nextConfig = {
   allowedDevOrigins: ["127.0.0.1"],
   basePath: "/wikitribia",
+  assetPrefix: "/wikitribia/",
   images: {
     unoptimized: true,
   },
