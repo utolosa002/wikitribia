@@ -7,6 +7,8 @@ const nextConfig = {
   allowedDevOrigins: ["127.0.0.1"],
   basePath: "/wikitribia",
   assetPrefix: "/wikitribia/",
+  env: {
+    BASE_PATH: "/wikitribia",
   images: {
     unoptimized: true,
   },
