@@ -12,6 +12,7 @@ interface DeckContextValue {
 }
 
 const DeckContext = React.createContext<DeckContextValue | null>(null);
+const relative_url = "/wikitribia";
 
 let cachedDeckTree: DeckNode | null = null;
 let deckTreePromise: Promise<DeckNode> | null = null;
@@ -33,7 +34,7 @@ async function fetchDeckTree(): Promise<DeckNode> {
   }
 
   if (!deckTreePromise) {
-    deckTreePromise = fetchJson<DeckNode>("/decks/index.json")
+    deckTreePromise = fetchJson<DeckNode>(relative_url+"/decks/index.json")
       .then((response) => {
         cachedDeckTree = response;
         return response;
