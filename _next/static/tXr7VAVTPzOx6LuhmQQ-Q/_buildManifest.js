@@ -1,22 +1,27 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/177y9h9jyl8-y.js"
+    "static/chunks/0..il0zsb58_4.js"
   ],
   "/404": [
-    "static/chunks/0hqx0pd5481it.js"
+    "static/chunks/00w7.hudz5-xr.js"
   ],
   "/_error": [
-    "static/chunks/0vsgu9rl6mb3~.js"
+    "static/chunks/0hk~bniszgu98.js"
   ],
   "/daily": [
-    "static/chunks/024xl_js7p_a-.js"
+    "static/chunks/0c9g~9tbx55hj.js"
   ],
   "/play/[[...slug]]": [
-    "static/chunks/080-txkgefb58.js"
+    "static/chunks/02_0-u9ttd--2.js"
   ],
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/wikitribia//_next/:path+",
+        "destination": "/wikitribia/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
