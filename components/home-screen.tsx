@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ButtonLink from "./button-link";
 import PageShell from "./page-shell";
 import SiteFooter from "./site-footer";
