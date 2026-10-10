@@ -34,7 +34,7 @@ async function fetchDeckTree(): Promise<DeckNode> {
 
   if (!deckTreePromise) {
     deckTreePromise = fetchJson<DeckNode>(
-  `${process.env.BASE_PATH ?? ""}/decks/index.json`)
+  `${process.env.BASE_PATH ?? ""}/decks/index.json`,)
       .then((response) => {
         cachedDeckTree = response;
         return response;
