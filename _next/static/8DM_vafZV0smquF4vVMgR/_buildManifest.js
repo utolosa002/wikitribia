@@ -9,10 +9,10 @@ self.__BUILD_MANIFEST = {
     "static/chunks/0vsgu9rl6mb3~.js"
   ],
   "/daily": [
-    "static/chunks/03em52mdatz88.js"
+    "static/chunks/0y5ulvi-nwxh6.js"
   ],
   "/play/[[...slug]]": [
-    "static/chunks/0sdi_xzp_d.mt.js"
+    "static/chunks/0~jl7o_8rv3oj.js"
   ],
   "__rewrites": {
     "afterFiles": [],
