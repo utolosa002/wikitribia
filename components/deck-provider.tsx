@@ -13,6 +13,8 @@ interface DeckContextValue {
 
 const DeckContext = React.createContext<DeckContextValue | null>(null);
 
+const basePath = process.env.BASE_PATH ?? "";
+
 let cachedDeckTree: DeckNode | null = null;
 let deckTreePromise: Promise<DeckNode> | null = null;
 const cachedDecks = new Map<string, Card[]>();
@@ -33,9 +35,7 @@ async function fetchDeckTree(): Promise<DeckNode> {
   }
 
   if (!deckTreePromise) {
-    deckTreePromise = fetchJson<DeckNode>(
-  `${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/decks/index.json`,
-    )
+    deckTreePromise = fetchJson<DeckNode>(`${basePath}/decks/index.json`)
       .then((response) => {
         cachedDeckTree = response;
         return response;
@@ -60,7 +60,7 @@ async function fetchDeck(deckId: string): Promise<Card[]> {
     return existingPromise;
   }
 
-  const nextPromise = fetchJson<Card[]>(`${process.env.BASE_PATH}/decks/${deckId}.json`)
+  const nextPromise = fetchJson<Card[]>(`${basePath}/decks/${deckId}.json`)
     .then((response) => {
       const loadedDeck = response as Card[];
       cachedDecks.set(deckId, loadedDeck);
