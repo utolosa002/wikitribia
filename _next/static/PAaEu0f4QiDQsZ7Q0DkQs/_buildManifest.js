@@ -9,7 +9,7 @@ self.__BUILD_MANIFEST = {
     "static/chunks/0vsgu9rl6mb3~.js"
   ],
   "/daily": [
-    "static/chunks/0y5ulvi-nwxh6.js"
+    "static/chunks/1491wrul1ewnx.js"
   ],
   "/play/[[...slug]]": [
     "static/chunks/0~jl7o_8rv3oj.js"
