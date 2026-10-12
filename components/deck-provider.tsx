@@ -58,7 +58,7 @@ async function fetchDeck(deckId: string): Promise<Card[]> {
     return existingPromise;
   }
 
-  const nextPromise = fetchJson<Card[]>(`/decks/${deckId}.json`)
+  const nextPromise = fetchJson<Card[]>(`${process.env.BASE_PATH ?? ""}/decks/${deckId}.json`)
     .then((response) => {
       const loadedDeck = response as Card[];
       cachedDecks.set(deckId, loadedDeck);
