@@ -34,7 +34,7 @@ export default function DailyPage() {
   if (!started && completedScore === null) {
     return (
       <>
-        <AppHead title="Daily | Wikitrivia" />
+        <AppHead title="Egunekoa | Wikitribia" />
         <DailyEntryScreen
           completedResults={completedResults}
           completedScore={completedScore}
