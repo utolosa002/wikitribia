@@ -13,7 +13,7 @@ interface DeckContextValue {
 
 const DeckContext = React.createContext<DeckContextValue | null>(null);
 
-const basePath = process.env.NEXT_PUBLIC_BASE_PATH | "";
+const basePath = process.env.BASE_PATH | "";
 
 let cachedDeckTree: DeckNode | null = null;
 let deckTreePromise: Promise<DeckNode> | null = null;
