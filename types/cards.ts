@@ -7,6 +7,7 @@ export interface Card {
   title: string;
   wikipediaSlug: string | null;
   year: number;
+  language: string | null;
 }
 
 export interface PreparedCardFields {
