@@ -2,8 +2,8 @@ import { PlayedCard } from "../types/cards";
 import { GameDifficulty } from "../types/game";
 import { GameMode, SelectionRoute } from "../types/routes";
 import { getSelectionRouteShareLabel } from "./categories";
-const PRODUCTION_ORIGIN = "https://wikitrivia.tomjwatson.com";
-const SHARE_BRAND_LABEL = "#wikitrivia";
+const PRODUCTION_ORIGIN = "https://utolosa002.github.io/wikitribia";
+const SHARE_BRAND_LABEL = "#wikitribia";
 const SHARE_RESULT_CORRECT = "🟩";
 const SHARE_RESULT_INCORRECT = "🟥";
 
