@@ -145,10 +145,10 @@ export function buildShareText(args: {
     lines.push("", resultRow);
   }
 
-  lines.push("", `Score / ${score} / ${getRankLabel(score)}`);
+  lines.push("", `Puntuazioa / ${score} / ${getRankLabel(score)}`);
 
   if (typeof highscore === "number") {
-    lines.push(`Best / ${highscore} / ${getRankLabel(highscore)}`);
+    lines.push(`Onena / ${highscore} / ${getRankLabel(highscore)}`);
   }
 
   lines.push("", url);
