@@ -25,27 +25,27 @@ WHERE {
 
   OPTIONAL {
     ?item rdfs:label ?resolvedLabel.
-    FILTER(LANG(?resolvedLabel) = "en")
+    FILTER(LANG(?resolvedLabel) = "eu")
   }
   OPTIONAL {
     ?item schema:description ?descriptionText.
-    FILTER(LANG(?descriptionText) = "en")
+    FILTER(LANG(?descriptionText) = "eu")
   }
   OPTIONAL {
     ?article
       schema:about ?item;
-      schema:isPartOf <https://en.wikipedia.org/>;
+      schema:isPartOf <https://eu.wikipedia.org/>;
       schema:name ?englishTitle.
   }
   OPTIONAL {
     ?item wdt:P27 ?country.
     OPTIONAL {
       ?country wdt:P1549 ?demonymRaw.
-      FILTER(LANG(?demonymRaw) = "en")
+      FILTER(LANG(?demonymRaw) = "eu")
     }
     OPTIONAL {
       ?country rdfs:label ?countryResolved.
-      FILTER(LANG(?countryResolved) = "en")
+      FILTER(LANG(?countryResolved) = "eu")
     }
     BIND(COALESCE(STR(?demonymRaw), ?countryResolved) AS ?nationalityText)
   }
@@ -53,7 +53,7 @@ WHERE {
     ?item wdt:P106 ?occupation.
     OPTIONAL {
       ?occupation rdfs:label ?occupationResolved.
-      FILTER(LANG(?occupationResolved) = "en")
+      FILTER(LANG(?occupationResolved) = "eu")
     }
     BIND(?occupationResolved AS ?occupationText)
   }
