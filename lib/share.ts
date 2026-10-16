@@ -2,21 +2,21 @@ import { PlayedCard } from "../types/cards";
 import { GameDifficulty } from "../types/game";
 import { GameMode, SelectionRoute } from "../types/routes";
 import { getSelectionRouteShareLabel } from "./categories";
-const PRODUCTION_ORIGIN = "https://wikitrivia.tomjwatson.com";
-const SHARE_BRAND_LABEL = "#wikitrivia";
+const PRODUCTION_ORIGIN = "https://utolosa002.github.io/wikitribia";
+const SHARE_BRAND_LABEL = "#wikitribia";
 const SHARE_RESULT_CORRECT = "🟩";
 const SHARE_RESULT_INCORRECT = "🟥";
 
 export function getDifficultyLabel(difficulty: GameDifficulty): string {
   if (difficulty === "easy") {
-    return "Easy";
+    return "Erraza";
   }
 
   if (difficulty === "normal") {
-    return "Normal";
+    return "Normala";
   }
 
-  return "Hard";
+  return "Zaila";
 }
 
 function getShareOrigin(): string {
@@ -52,15 +52,15 @@ export function getShareResults(played: PlayedCard[]): boolean[] {
 
 export function getRankLabel(score: number): string {
   if (score >= 20) {
-    return "Gold";
+    return "Urrea";
   }
 
   if (score >= 10) {
-    return "Silver";
+    return "Zilarra";
   }
 
   if (score >= 1) {
-    return "Bronze";
+    return "Brontzea";
   }
 
   return "None";
@@ -82,7 +82,7 @@ function formatShareDate(dateKey?: string): string {
   }
 
   const date = new Date(`${dateKey}T00:00:00.000Z`);
-  const parts = new Intl.DateTimeFormat("en-US", {
+  const parts = new Intl.DateTimeFormat("eu-ES", {
     day: "numeric",
     month: "short",
     timeZone: "UTC",
@@ -92,7 +92,7 @@ function formatShareDate(dateKey?: string): string {
   const day = parts.find((part) => part.type === "day")?.value ?? "";
   const year = parts.find((part) => part.type === "year")?.value ?? "";
 
-  return `${month} ${day} ${year}`.trim();
+  return `${year}-${month}-${day}`.trim();
 }
 
 export function buildShareText(args: {
@@ -127,7 +127,7 @@ export function buildShareText(args: {
       lines.push("", resultRow);
     }
 
-    lines.push("", `Score / ${score} / ${getRankLabel(score)}`, "", url);
+    lines.push("", `Puntuazioa / ${score} / ${getRankLabel(score)}`, "", url);
     return lines.join("\n");
   }
 
@@ -145,10 +145,10 @@ export function buildShareText(args: {
     lines.push("", resultRow);
   }
 
-  lines.push("", `Score / ${score} / ${getRankLabel(score)}`);
+  lines.push("", `Puntuazioa / ${score} / ${getRankLabel(score)}`);
 
   if (typeof highscore === "number") {
-    lines.push(`Best / ${highscore} / ${getRankLabel(highscore)}`);
+    lines.push(`Onena / ${highscore} / ${getRankLabel(highscore)}`);
   }
 
   lines.push("", url);
