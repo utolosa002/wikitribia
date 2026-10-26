@@ -1,0 +1,48 @@
+name: Update data
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install
+        run: bun install
+
+      - name: Check formatting
+        run: bun run format:check
+
+      - name: Lint
+        run: bun run lint
+
+      - name: Typecheck
+        run: bun run typecheck
+
+      - name: Generate SPARQL data
+        run: bun run sparql:run
+
+      - name: Build deck JSON
+        run: bun run decks:build
+
+      - name: Build
+        run: bun run build
+
+      - name: Commit changes
+        run: |
+
+          git add .
+
+          git diff --staged --quiet || git commit -m "Update generated data"
+
+          git push
