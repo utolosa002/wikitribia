@@ -30,6 +30,8 @@ jobs:
         run: bun run typecheck
 
       - name: Generate SPARQL data
+        env:
+          WIKIMEDIA_USER_AGENT: "WikiTribiaBot/1.0 (https://github.com/utolosa002/wikitribia)"
         run: bun run sparql:run
 
       - name: Build deck JSON
