@@ -56,8 +56,7 @@ function getGitHubRepoSlug(): string {
   return repoSlug;
 }
 
-export function getWikimediaUserAgent(): string { 
-//requireEnvFile();
+export function getWikimediaUserAgent(): string {
   const contactEmail = requireEnvValue(CONTACT_EMAIL_ENV);
   if (!contactEmail.includes("@")) {
     throw new Error(`${CONTACT_EMAIL_ENV} must be an email address`);
