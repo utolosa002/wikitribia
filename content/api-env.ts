@@ -4,27 +4,6 @@ import path from "path";
 
 const CONTACT_EMAIL_ENV = "WIKITRIVIA_CONTACT_EMAIL";
 
-function requireEnvFile() {
-  if (!existsSync(path.join(process.cwd(), ".env"))) {
-    throw new Error(
-      "Wikimedia API scripts require a .env file. Copy .env.example to .env and fill in WIKITRIVIA_CONTACT_EMAIL.",
-    );
-  }
-}
-
-function requireEnvValue(name: string): string {
-  const value = process.env[name]?.trim();
-  if (!value) {
-    throw new Error(`Missing required environment variable: ${name}`);
-  }
-
-  if (value.includes("your-email") || value.includes("example.com")) {
-    throw new Error(`Replace the placeholder value for ${name} in .env`);
-  }
-
-  return value;
-}
-
 function parseGitHubRepoSlug(remoteUrl: string): string | null {
   const trimmedUrl = remoteUrl.trim();
 
