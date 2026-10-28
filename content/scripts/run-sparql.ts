@@ -187,6 +187,7 @@ async function main() {
       console.log(
         `  failed after ${formatDuration(entry.durationMs)} for ${entry.outputDir}`,
       );
+      console.error(entry.error);
     } else {
       console.log(
         `  saved ${entry.resultCount} row(s) to ${entry.outputDir} in ${formatDuration(entry.durationMs)}`,
