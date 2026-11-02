@@ -31,6 +31,7 @@ jobs:
 
       - name: Generate SPARQL data
         env:
+          CONTACT_EMAIL_ENV: ${{ secrets.CONTACT_EMAIL_ENV }}
           WIKIMEDIA_USER_AGENT: "WikiTribiaBot/1.0 (https://github.com/utolosa002/wikitribia)"
         run: bun run sparql:run
 
