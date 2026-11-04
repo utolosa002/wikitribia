@@ -1,6 +1,4 @@
 import { execFileSync } from "child_process";
-import { existsSync } from "fs";
-import path from "path";
 
 const CONTACT_EMAIL_ENV = "WIKITRIVIA_CONTACT_EMAIL";
 
